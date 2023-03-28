@@ -365,6 +365,32 @@ span {
 }
 /* contact section ends */
 
+/* running captain america  */
+
+.runCap {
+  position: relative;
+  height: 100px;
+}
+.cap {
+  height: 100px;
+  position: absolute;
+  animation-name: runcaprun;
+  animation-duration: 7s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes runcaprun {
+  from {
+    right: 0%;
+  }
+  to {
+    right: 100%;
+  }
+}
+
+/* running captain america  ends*/
+
 /* footer section starts  */
 .footer {
   display: flex;
