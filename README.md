@@ -99,8 +99,7 @@ and then Open the `index.html` file in your favorite web browser or you can use 
 				<img src="https://avatars.githubusercontent.com/u/77501726?s=400&u=4deeced16f78d4eac38069d959a4c9bb566b93be&v=4" width="100px" alt="" />
 				<br /> <sub><b>Vivek Chatterjee</b></sub>
 			</a>
-			<br /> <a href="https://github.com/samratghosh291"> 
-		👑 Admin
+			<br />
 	    </a>
 		</td>
 	</tr>
