@@ -75,7 +75,9 @@ Push Your Changes:
 git push origin your-branch-name
 ```
 
-Now submit the Pull request
+Now submit the Pull Request.
+
+> If there are no issues, you can create any issue or feature you want to have and then raise the Pull Request.
 
 ## DEVELOPMENT on your local computer
 `Clone the repository`:
