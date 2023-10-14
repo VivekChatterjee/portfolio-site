@@ -70,6 +70,10 @@ section {
   color: var(--main-clr);
 }
 
+.navbar a.active{
+  color: #0ef;
+}
+
 #menu-icon {
   font-size: 3.6rem;
   color: var(--text-clr);
@@ -424,6 +428,10 @@ span {
   color: var(--second-bg-clr);
 }
 
+.footer-iconTop a i {
+  font-size: 2.4rem;
+  color: var(--second-bg-clr);
+} 
 /* footer section ends  */
 
 /* BREAKPOINTS  */
