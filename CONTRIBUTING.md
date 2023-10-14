@@ -1,4 +1,4 @@
-# Contributing to HackerSpace
+# Contributing to Portfolio
 
 **Code of Conduct:**
 - Follow our [Code of Conduct](CODE_OF_CONDUCT.md).
