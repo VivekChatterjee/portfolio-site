@@ -82,7 +82,7 @@ Now submit the Pull Request.
 ## DEVELOPMENT on your local computer
 `Clone the repository`:
 ```
- git clone 'https://github.com/VivekChatterjee/portfolio-site'
+ git clone 'https://github.com/VivekChatterjee/portfolio-site.git'
 ```
 and then Open the `index.html` file in your favorite web browser or you can use Live Server Extension on VS Code and press the Go Live Button to see instant changes on the browser on code save.
 
