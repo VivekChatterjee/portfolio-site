@@ -84,7 +84,14 @@ Now submit the Pull Request.
 ```
  git clone 'https://github.com/VivekChatterjee/portfolio-site.git'
 ```
-and then Open the `index.html` file in your favorite web browser or you can use Live Server Extension on VS Code and press the Go Live Button to see instant changes on the browser on code save.
+and then change the directory to portfolio-site with 
+```
+cd portfolio-site
+```
+then just run in the console
+```
+npm run start
+```
 
 
 ## Connect with Me
