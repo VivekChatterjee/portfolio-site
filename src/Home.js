@@ -8,16 +8,19 @@ const Home = () => {
   return (
     <section className="home" id="home">
     <div className="home-content">
-      <h3>Hello World, It's</h3>
+      <h3>Hello Techies, I'm</h3>
       <h1>Vivek Chatterjee</h1>
-      <h3>And I'm a <span className="multiple-text">
+      <h3>and I'm a <span className="multiple-text">
       <TypeAnimation
                         sequence={[
                             // Same substring at the start will only be typed out once, initially
-                            'FrontEnd Developer',
-                            1000, // wait 1s before replacing "Mice" with "Hamsters"
-                            'Leetcoder',
+                            'Full Stack Developer',
+                            1000, // wait 1s before replacing 1st word with 2nd word and so on
+                            'Problem Solver',
+                            1000,
+                            'Chess Enthusiast,
                             1000
+                            ''
                             ]}
                             wrapper="span"
                             speed={50}
