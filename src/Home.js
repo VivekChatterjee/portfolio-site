@@ -20,7 +20,6 @@ const Home = () => {
                             1000,
                             'Chess Enthusiast,
                             1000
-                            ''
                             ]}
                             wrapper="span"
                             speed={50}
