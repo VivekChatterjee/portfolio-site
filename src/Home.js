@@ -18,7 +18,7 @@ const Home = () => {
                             1000, // wait 1s before replacing 1st word with 2nd word and so on
                             'Problem Solver',
                             1000,
-                            'Chess Enthusiast,
+                            'Chess Enthusiast',
                             1000
                             ]}
                             wrapper="span"
