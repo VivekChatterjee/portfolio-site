@@ -36,7 +36,7 @@ const PortfolioSection = () => {
           <p>Made a site to browse through different tours</p>
           <a
             target="_blank"
-            href="https://backroads-tour-website-by-vivek.netlify.app/" rel="noopener noreferrer"
+            href="https://backroads-tour-travel-site.netlify.app/" rel="noopener noreferrer"
             ><i className="bx bx-link-external"></i
           ></a>
         </div>
@@ -64,7 +64,7 @@ const PortfolioSection = () => {
         <div className="portfolio-layer">
           <h4>Elderly - Old Age Ecommerce Website</h4>
           <p>A Shopping site for Old Age People</p>
-          <a target="_blank" href="https://ecommerce-vivek.netlify.app/"  rel="noopener noreferrer"
+          <a target="_blank" href="https://elderly-ecommerce.netlify.app/"  rel="noopener noreferrer"
             ><i className="bx bx-link-external"></i
           ></a>
         </div>
@@ -77,7 +77,7 @@ const PortfolioSection = () => {
         <div className="portfolio-layer">
           <h4>Movie Reviewer Website</h4>
           <p>A site to review your favourite movie or series</p>
-          <a target="_blank" href="https://movie-reviewer-vivek.netlify.app/" rel="noopener noreferrer"
+          <a target="_blank" href="https://movie-reviewer-site.netlify.app/" rel="noopener noreferrer"
             ><i className="bx bx-link-external"></i
           ></a>
         </div>
