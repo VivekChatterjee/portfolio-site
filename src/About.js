@@ -9,7 +9,7 @@ const About = () => {
 </div>
 <div className="about-content">
   <h2 className="heading">About <span>Me</span></h2>
-  <h3>FrontEnd Developer</h3>
+  <h3>Full Stack Developer</h3>
   <p>
     Possessing strong foundation in programming fundamentals and a hunger
     for learning new technologies. Strongly motivated to work in an agile
