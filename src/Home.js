@@ -4,61 +4,61 @@ import { TypeAnimation } from 'react-type-animation'
 
 
 const Home = () => {
-  
+
   return (
     <section className="home" id="home">
-    <div className="home-content">
-      <h3>Hello Techies, I'm</h3>
-      <h1>Vivek Chatterjee</h1>
-      <h3>and I'm a <span className="multiple-text">
-      <TypeAnimation
-                        sequence={[
-                            // Same substring at the start will only be typed out once, initially
-                            'Full Stack Developer',
-                            1000, // wait 1s before replacing 1st word with 2nd word and so on
-                            'Problem Solver',
-                            1000,
-                            'Chess Enthusiast',
-                            1000
-                            ]}
-                            wrapper="span"
-                            speed={50}
-                            repeat={Infinity}
-                    />
+      <div className="home-content">
+        <h3>Hello Techies, I'm</h3>
+        <h1>Vivek Chatterjee</h1>
+        <h3>and I'm a <span className="multiple-text">
+          <TypeAnimation
+            sequence={[
+              // Same substring at the start will only be typed out once, initially
+              'Full Stack Developer',
+              1000, // wait 1s before replacing 1st word with 2nd word and so on
+              'Problem Solver',
+              1000,
+              'Chess Enthusiast',
+              1000
+            ]}
+            wrapper="span"
+            speed={50}
+            repeat={Infinity}
+          />
         </span>
         </h3>
-      <p>I've been addicted to Programming :)</p>
-      <div className="social-media">
-        <a href="https://github.com/VivekChatterjee" target="_blank" rel="noopener noreferrer"
+        <p>I've been addicted to Programming :)</p>
+        <div className="social-media">
+          <a href="https://github.com/VivekChatterjee" target="_blank" rel="noopener noreferrer"
           ><i className="bx bxl-github"></i
-        ></a>
-        <a 
-          target="_blank" rel="noopener noreferrer"
-            href="https://twitter.com/i_vivek_jsr" 
+          ></a>
+          <a
+            target="_blank" rel="noopener noreferrer"
+            href="https://twitter.com/i_vivek_jsr"
           ><i className="bx bxl-twitter"></i
-        ></a>
-        <a 
-          target="_blank" rel="noopener noreferrer"            
+          ></a>
+          <a
+            target="_blank" rel="noopener noreferrer"
             href="https://www.instagram.com/vivekbossss/"
           ><i className="bx bxl-instagram"></i
-        ></a>
-        <a
-          target="_blank" rel="noopener noreferrer"         
-          href="https://www.linkedin.com/in/vivek-chatterjee-a590421b7/" 
+          ></a>
+          <a
+            target="_blank" rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/vivek-chatterjee-a590421b7/"
           ><i className="bx bxl-linkedin-square"></i
-        ></a>
-      </div>
-      <a
-          target="_blank" rel="noopener noreferrer"        
-        href="https://drive.google.com/file/d/1oaDWP5zNZJIM01h33C6UWA_QgszzpjFJ/view?usp=sharing" 
-        className="btn"
+          ></a>
+        </div>
+        <a
+          target="_blank" rel="noopener noreferrer"
+          href="https://drive.google.com/file/d/1H_g7xCKOVGuU1I6pzm3T4I_Md0NtS9E0/view?usp=sharing"
+          className="btn"
         >Download Resume</a
-      >
-    </div>
-    <div className="home-img">
-      <img src={profile} alt='profile'/>
-    </div>
-  </section>
+        >
+      </div>
+      <div className="home-img">
+        <img src={profile} alt='profile' />
+      </div>
+    </section>
   )
 }
 
