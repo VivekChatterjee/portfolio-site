@@ -12,17 +12,17 @@ const Header = () => {
 
   return (
     <div className="App">
-        <header className="header navbar">
-        <a href="\" className="logo">Portfolio</a>
+      <header className="header navbar">
+        <a href="/" className="logo">Portfolio</a>
         <nav className="navbar">
-        <NavLinkCustom href="/#home" text="Home" active={active} setActive={setActive}/>
-        <NavLinkCustom href="/#about" text="About" active={active} setActive={setActive}/>
-        <NavLinkCustom href="/#services" text="Services" active={active} setActive={setActive}/>
-        <NavLinkCustom href="/#portfolio" text="Projects" active={active} setActive={setActive}/>
-        <NavLinkCustom href="/#contact" text="Contact" active={active} setActive={setActive} />
-      </nav>
-        </header>
-</div>
+          <NavLinkCustom href="/#home" text="Home" active={active} setActive={setActive}/>
+          <NavLinkCustom href="/#about" text="About" active={active} setActive={setActive}/>
+          <NavLinkCustom href="/#services" text="Services" active={active} setActive={setActive}/>
+          <NavLinkCustom href="/#portfolio" text="Projects" active={active} setActive={setActive}/>
+          <NavLinkCustom href="/#contact" text="Contact" active={active} setActive={setActive} />
+        </nav>
+      </header>
+    </div>
   )
 }
 
